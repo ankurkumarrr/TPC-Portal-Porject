@@ -1,0 +1,92 @@
+body{
+    background-color: rgb(246, 239, 229);
+  }
+  
+  /* Header CSS */
+  .header {
+    overflow: hidden;
+    background-color: #5d5c61;
+  }
+  
+  
+  .header a {
+    float: left;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 12px;
+    text-decoration: none;
+    font-size: 25px;
+    line-height: 25px;
+    border-radius: 4px;
+  }
+  
+  .header a.logo {
+    font-size: 25px;
+    font-weight: bold;
+  }
+  
+  .header-left{
+    float: left;
+  }
+  
+  .header-right{
+    padding-top: 20px;
+    padding-right: 50px;
+    float: right;
+  }
+  
+  .header-text{
+    padding-top: 12px;
+    width: 400px;
+  }
+  
+  .header-text1{
+    width: 200px;
+  }
+  
+  
+  
+  canvas{
+    padding: 10px;
+    border:1px solid rgb(255, 255, 255);   
+  }
+  
+  table, td{
+      border: 1px solid;
+      border-collapse: collapse;
+      padding: 5px;
+    }
+  
+    h2{
+      padding-right: 10px;
+      display: inline;
+    }
+    
+    select {
+      width: 100%;
+      min-width: 15ch;
+      max-width: 50px;
+      border: 1px solid black;
+      border-radius: 0.25em;
+      padding: 0.25em 0.5em;
+      font-size: 1.25rem;
+      cursor: pointer;
+      line-height: 1;
+      background-color: #fff;
+      background-image: linear-gradient(to top, #f9f9f9, #fff 33%);
+    }
+    
+    .my-button {
+      background-color: #007bff;
+      border: none;
+      color: #fff;
+      padding: 10px 20px;
+      font-size: 16px;
+      border-radius: 5px;
+      cursor: pointer;
+    
+    }
+    
+    .my-button:hover {
+      background-color: #0069d9;
+    }

@@ -1,0 +1,55 @@
+body{
+    background-color: rgb(246, 239, 229);
+  }
+  
+  /* Header CSS */
+  .header {
+    overflow: hidden;
+    background-color: #5d5c61;
+    margin-bottom: 10px;
+  }
+  
+  
+  .header a {
+    float: left;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 12px;
+    text-decoration: none;
+    font-size: 25px;
+    line-height: 25px;
+    border-radius: 4px;
+  }
+  
+  .header a.logo {
+    font-size: 25px;
+    font-weight: bold;
+  }
+  
+  .header-left{
+    float: left;
+  }
+  
+  .header-right{
+    padding-top: 20px;
+    padding-right: 50px;
+    float: right;
+  }
+  
+  .header-text{
+    padding-top: 12px;
+    width: 400px;
+  }
+  
+  .header-text1{
+    width: 200px;
+  }
+
+  
+
+
+  
+
+  
+
+  

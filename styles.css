@@ -1,0 +1,165 @@
+body{
+  background-color: rgb(246, 239, 229);
+}
+
+/* Header CSS */
+.header {
+  overflow: hidden;
+  background-color: #5d5c61;
+  margin-bottom: 10px;
+}
+
+
+.header a {
+  float: left;
+  color: rgb(255, 255, 255);
+  text-align: center;
+  padding: 12px;
+  text-decoration: none;
+  font-size: 25px;
+  line-height: 25px;
+  border-radius: 4px;
+}
+
+.header a.logo {
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.header-left{
+  float: left;
+}
+
+.header-right{
+  padding-top: 20px;
+  padding-right: 50px;
+  float: right;
+}
+
+.header-text{
+  padding-top: 12px;
+  width: 400px;
+}
+
+.header-text1{
+  width: 200px;
+}
+p.heading {
+  margin-top: 75px;
+}
+
+p.top {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-size: 20px;
+}
+
+h1{
+    font-size: 40px;
+}
+
+label{
+    margin-left: 400px;
+    margin-bottom: 20px;
+    font-size: 20px;
+    display: inline-block;
+    float: left;
+    clear: left;
+    width: 250px;
+    text-align: right;
+}
+
+select{
+  margin-left: 680px;
+  margin-top: -40px ;
+  font-size: 15px;
+  display: inline-block;
+  float: left;
+  clear: left;
+  text-align: left;
+}
+
+input{
+    margin-left: 30px;
+    font-size: 20px;
+    display: inline-block;
+    float: left;
+}
+
+a{
+    font-size: 20px;
+}
+
+tr{
+  font-size: 23px;
+}
+
+form button {
+  margin-right: 600px;
+}
+
+form button:last-child {
+  margin-right: 0;
+}
+
+.my-button {
+  background-color: #007bff;
+  border: none;
+  color: #fff;
+  padding: 10px 20px;
+  font-size: 16px;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-top: 10px;
+}
+
+#delete-admin{
+  margin-left: 550px;
+}
+
+.my-button:hover {
+  background-color: #0069d9;
+}
+
+.form-button {
+  background-color: #007bff;
+  border: none;
+  color: #fff;
+  padding: 10px 20px;
+  font-size: 16px;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-top: 20px;
+}
+
+#delete {
+  background-color: #007bff;
+  border: none;
+  color: #fff;
+  padding: 10px 20px;
+  font-size: 16px;
+  border-radius: 5px;
+  cursor: pointer;
+  height: 60px;
+  margin-top: 20px;
+  margin-left: 170px ;
+  margin-right: 150px;
+  margin-bottom: 100px;
+}
+#alumnus {
+  background-color: #007bff;
+  border: none;
+  color: #fff;
+  padding: 10px 20px;
+  font-size: 16px;
+  border-radius: 5px;
+  cursor: pointer;
+  height: 60px;
+  margin-top: 20px;
+  margin-left: -55px ;
+  margin-right: -50px;
+}
+
+.form-button:hover {
+  background-color: #0069d9;
+}
